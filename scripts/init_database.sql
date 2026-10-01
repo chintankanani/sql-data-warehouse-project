@@ -26,7 +26,7 @@ GO
 
 -- Create the 'DataWarehouse' database
 CREATE DATABASE DataWarehouse; 
-Go -- Go Seprate batches when working with mutliple SQL statements
+Go
 
 USE DataWarehouse;
 Go
