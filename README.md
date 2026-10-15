@@ -134,8 +134,6 @@ sql-data-warehouse-project/
     └── quality_checks_gold.sql
 ```
 
-*Note: The tree shows the files identified from the project screenshots. Dataset extensions and any additional files should match the actual repository.*
-
 ## Documentation
 
 The `documents` folder contains diagrams and supporting documentation for understanding the warehouse.
